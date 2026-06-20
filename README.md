@@ -2,7 +2,7 @@
 
 --------------------------------------------
 
-# Getting  Bitcoin Prices using Python Django
+# Getting  Bitcoin Prices using Python Django project
 A simple Django project which uses requests package to hit api and get the crypto-currency data.
 
 
